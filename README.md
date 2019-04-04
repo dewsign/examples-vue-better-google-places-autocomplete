@@ -1,29 +1,19 @@
-# better-places-autocomplete-demo
+# Vue Better Google Places Autocomplete Demo
+
+For this demo to work you need to add your own Maps API key to index.html
 
 ## Project setup
-```
+
+```sh
 npm install
 ```
 
 ### Compiles and hot-reloads for development
-```
+
+```sh
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
