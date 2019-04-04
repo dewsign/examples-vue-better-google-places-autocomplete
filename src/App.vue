@@ -17,6 +17,8 @@ export default {
 </script>
 
 <style>
+@import 'assets/styles/tailwind.postcss';
+
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
